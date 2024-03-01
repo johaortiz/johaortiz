@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Joha</h1>
 <img align="left" alt="Coding" height="100" src="https://media1.tenor.com/m/VY0mGQs9W4kAAAAd/despair.gif" style="border-radius: 50%;">
+<h1 align="center">Hola 👋, Soy Joha</h1>
 <h3 align="center">Desarrollador por Pasión</h3>
 <h3 align="center">Estudiante y Personal Adscripto, Universidad de la Cuenca del Plata</h3>
 <h3 align="center">Posadas, Misiones, Argentina</h3>
