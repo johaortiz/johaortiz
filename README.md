@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johaortiz" alt="johaortiz" /></a> </p>
 <img align="right" alt="Coding" height="250" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-- 🔭 Actualmente estoy trabajando en **ByteMate Personal Adscripto Universidad de la Cuenca del Plata**
+- 🔭 Actualmente estoy trabajando en **ByteMate && Personal Adscripto Universidad de la Cuenca del Plata**
 
 - 🌱 Actualmente estoy aprendiendo **NestJs**
 
